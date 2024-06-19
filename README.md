@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PragatiBaderiya
-- 👀 I’m interested in C/C++/HTML/Java/Python/Rust/ASM
-- 🌱 I’m currently learning C/JavaScript
+- 👀 I’m interested in C/C++/Python
+- 🌱 I’m currently learning C++
 
 <!---
 PragatiBaderiya/PragatiBaderiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
